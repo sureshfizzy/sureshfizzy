@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshfizzy" alt="sureshfizzy" /></a> </p>
 
-- 🔭 I’m currently working in [Capgemini As Software Developer and Aosp Developer Working with Project Xtended Team](https://github.com/Project-Xtended)
+- 🔭 I’m currently working in **Capgemini As Software Developer and Aosp Developer Working with Project Xtended Team**
 
 - 🌱 I’m currently learning **Blockchain Development**
 
