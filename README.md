@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh</h1>
 <h3 align="center">A passionate Software developer from India Working With Aosp Projects and Many more</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshfizzy&label=Profile%20views&color=0e75b6&style=flat" alt="sureshfizzy" /> </p>
 
